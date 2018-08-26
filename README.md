@@ -11,3 +11,6 @@ This is just a translation of the SML examples to OCaml, to the best of my effor
 While I am sure SML is a great language, when I started reading *The Little MLer* I only had the OCaml compiler on my computer.
 
 Because I am a lazy person, I decided to take this as an opportunity to learn OCaml too.
+
+## Now with ReasonML examples
+A contributor has added a translation from ocaml to reason syntax.
