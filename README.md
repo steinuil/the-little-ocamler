@@ -14,3 +14,8 @@ Because I am a lazy person, I decided to take this as an opportunity to learn OC
 
 ## Now with ReasonML examples
 Thanks to @hzamir, a translation to ReasonML syntax has been added under the `reasonml/` directory.
+
+## Now with ReasonML/Bucklescript examples
+A translation to ReasonML to JS compilations with Bucklescript has been added under the `reasonbs/` directory.
+
+To run `npm install` then `npm start`.
